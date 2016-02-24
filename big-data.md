@@ -3,4 +3,5 @@
 | Date       | Title         | Category  | Year  |
 | ---------- |---------------| ----------|-------|
 | 02/24/2016 | [Cascading](http://www.cascading.org/) | Platform for building data applications on Hadoop | ETL, Batch, and Data Transformation 
-| 02/24/2016 | [facebook Presto](https://prestodb.io//) | Distributed SQL Query Engine for Big Data | Analytics
+| 02/24/2016 | [facebook Presto](https://prestodb.io/) | Distributed SQL Query Engine for Big Data | Analytics
+| 02/24/2016 | [facebook Presto](https://www.qubole.com/) | Big Data as a service | Hosted
