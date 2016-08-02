@@ -17,3 +17,4 @@
 9. [PostgreSQL Indexes: First Principles](https://ieftimov.com/postgresql-indexes-first-principles)
 10. [Postgres as Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
 11. [Postgres SQL Magic](http://goto.project-a.com/postgresql-magic/)
+12. [An unexpected dba journey](https://engineering.semantics3.com/2016/07/20/an-unexpected-dba-journey/)
