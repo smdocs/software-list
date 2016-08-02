@@ -12,7 +12,7 @@
 4. [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 5. [What PostgreSQL has over other open source SQL databases: Part 2 ](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 6. [Full Text Search in Millis with Postgres](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
-7. [Postgres SQL Studio(http://www.postgresqlstudio.org/about/index.html)
+7. [Postgres SQL Studio](http://www.postgresqlstudio.org/about/index.html)
 8. [Postgres Query Plan Execution](http://tatiyants.com/postgres-query-plan-visualization/)
 9. [PostgreSQL Indexes: First Principles](https://ieftimov.com/postgresql-indexes-first-principles)
 10. [Postgres as Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
