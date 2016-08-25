@@ -19,6 +19,7 @@
 10. [Postgres as Schemaless Database](https://wiki.postgresql.org/images/b/b4/Pg-as-nosql-pgday-fosdem-2013.pdf)
 11. [Postgres SQL Magic](http://goto.project-a.com/postgresql-magic/)
 12. [An unexpected dba journey](https://engineering.semantics3.com/2016/07/20/an-unexpected-dba-journey/)
+13. [Practical guide to postgresql optimizations](https://tech.lendinghome.com/practical-guide-to-postgresql-optimizations-d7b9c2ad6a22#.gi96fqb0p)
 
 #### Comparison of Database changes
 1. [NoSQL Database Comparisons](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.z0xgmd1a4)
